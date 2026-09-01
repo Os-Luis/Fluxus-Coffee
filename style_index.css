@@ -1,0 +1,79 @@
+body{
+    background-color: #F5EBDD;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #252525;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #5C4033;
+    padding: 15px 25px;
+    margin: 0;
+    border-radius: 15px 15px 10px;
+}
+
+.menu li a {
+    color: #F5EBDD;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 8px;
+
+    transition: 0.3s;
+}
+
+.menu li a:hover {
+    background-color: #245C63;
+    color: white;
+}
+
+
+.info p {
+    color: #252525;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.7;
+    text-align: justify;
+    margin: 0;
+}
+
+.info {
+  background-color: #F5EBDD;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 35px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+
+.info-img {
+  width: 45%;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.info-texto {
+  width: 55%;
+}
+
+.slogan {
+  text-align: center;
+  padding: 64px 16px;
+  background-color: #245C63; /* Cor de fundo */
+  border-radius: 10px 10px 5px;
+}
+
+.slogan h1 {
+  color: #f5ebdd;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
