@@ -77,3 +77,27 @@ body{
   font-size: 2.5rem;
   font-weight: bold;
 }
+
+.container{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 60px;
+}
+
+.espaço h3{
+  text-align: center;
+}
+
+.espaço p{
+  text-align: justify;
+}
+
+.produtos h3{
+  text-align: center;
+}
+
+.produtos p{
+  text-align: justify;
+}
