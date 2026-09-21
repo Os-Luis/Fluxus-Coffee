@@ -1,0 +1,26 @@
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #5C4033;
+    padding: 15px 25px;
+    margin: 0;
+    border-radius: 15px 15px 10px;
+}
+
+.menu li a {
+    color: #F5EBDD;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 8px;
+
+    transition: 0.3s;
+}
+
+.menu li a:hover {
+    background-color: #245C63;
+    color: white;
+}
