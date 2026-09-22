@@ -1,0 +1,46 @@
+body{
+    background-color: #F5EBDD;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #252525;
+}
+
+.slogan {
+  text-align: center;
+  padding: 64px 16px;
+  background-color: #245C63; /* Cor de fundo */
+  border-radius: 10px 10px 5px;
+}
+
+.slogan h1 {
+  color: #f5ebdd;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.blog{
+    text-align: justify;
+}
+
+#p1{
+    background-color: #EFE0CC;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.20);
+}
+
+#p2{
+    background-color: #EFE0CC;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.20);
+}
+
+#p3{
+    background-color: #EFE0CC;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.20);
+}
+
+#p4{
+    background-color: #EFE0CC;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.20);
+}
