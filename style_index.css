@@ -4,7 +4,6 @@ body{
     color: #252525;
 }
 
-
 .info p {
     color: #252525;
     font-family: Arial, sans-serif;
@@ -15,7 +14,7 @@ body{
 }
 
 .info {
-  background-color: #F5EBDD;
+  background-color: #EFE0CC;
   max-width: 900px;
   margin: 40px auto;
   padding: 35px;
@@ -25,7 +24,6 @@ body{
   gap: 30px;
   align-items: center;
 }
-
 
 .info-img {
   width: 45%;
@@ -47,7 +45,7 @@ body{
 
 .slogan h1 {
   color: #f5ebdd;
-  font-size: 2.5rem;
+  font-size: 40px;
   font-weight: bold;
 }
 
@@ -57,8 +55,21 @@ body{
   flex-direction: row;
   justify-content: space-between;
   gap: 60px;
+  
 }
 
+.espaço{
+  background-color: #EFE0CC;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.20);
+}
+
+.produtos{
+  background-color: #EFE0CC;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.20);
+  
+}
 .espaço h3{
   text-align: center;
 }
